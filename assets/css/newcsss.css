@@ -47,25 +47,4 @@ h1{
     width: 60%;
     flex-wrap: wrap;
 }
-@media only screen and (max-width: 600px) {
-  body {
-    .first {
-    text-align: center;
-    color: #003366;
-  width: 30%;
- position: fixed;
- z-index: 1;
-  top: 0;
-  left: 0;
-  overflow-x: hidden;
-  padding-top: 20px;
- 
-  }
-      .second{
- 
-   float: right;
-   margin: 0em;
-    display: inline;
-    width: 60%;
-    flex-wrap: wrap;
-}
+
